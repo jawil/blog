@@ -50,6 +50,7 @@ var e = { m: 20 }//重新开辟一段内存空间假设为0x0012ff8f
 console.log(e==d);//false
 ```
 ##### 那为什么引用值要放在堆中，而原始值要放在栈中，不都是在内存中吗，为什么不放在一起呢?那接下来，让我们来探索问题的答案！(扯远了)
+
 `首先，我们来看一下代码：`
 
 ```
@@ -76,7 +77,7 @@ var person = new Person(100,"笨蛋的座右铭",25);
 `记住一句话：能量是守衡的，无非是时间换空间，空间换时间的问题
 堆比栈大，栈比堆的运算速度快,对象是一个复杂的结构，并且可以自由扩展，如：数组可以无限扩充，对象可以自由添加属性。将他们放在堆中是为了不影响栈的效率。而是通过引用的方式查找到堆中的实际对象再进行操作。相对于简单数据类型而言，简单数据类型就比较稳定，并且它只占据很小的内存。不将简单数据类型放在堆是因为通过引用到堆中查找实际对象是要花费时间的，而这个综合成本远大于直接从栈中取得实际值的成本。所以简单数据类型的值直接存放在栈中。`
 
-搬运文章:[理解js内存分配]('http://blog.sina.com.cn/s/blog_8ecde0fe0102vy6e.html')
+搬运文章:[理解js内存分配](http://blog.sina.com.cn/s/blog_8ecde0fe0102vy6e.html)
 
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyiz360huj20go0b4aaq)
 
@@ -265,8 +266,9 @@ ToPrimitive(a);//"[object Object]",与上面文字分析的一致
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyhmvo222j20c80c874n)
 
 ### 最后总结一下
-                                    **==运算规则的图形化表示**
-<img src="http://www.admin10000.com/UploadFiles/Document/201607/23/20160723214407896651.PNG"/>
+==运算规则的图形化表示
+
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyjfmwc03j20xs0gyjv0)
 
 
 ```
@@ -284,11 +286,11 @@ ToPrimitive(a);//"[object Object]",与上面文字分析的一致
 ```
 ### 主要参考文章和文献
 
-[ECMAScript5.1规范中文版]('http://yanhaijing.com/es5/#about')
+[ECMAScript5.1规范中文版](http://yanhaijing.com/es5/#about)
 
-[通过一张简单的图，让你彻底地、永久地搞懂JS的==运算]('http://www.admin10000.com/document/9242.html')
+[通过一张简单的图，让你彻底地、永久地搞懂JS的==运算](http://www.admin10000.com/document/9242.html)
 
-[JavaScript中加号运算符的类型转换优先级是什么？]('https://www.zhihu.com/question/21484710')
+[JavaScript中加号运算符的类型转换优先级是什么？](https://www.zhihu.com/question/21484710)
 
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj463ngvj20c80b8mxt)
 
