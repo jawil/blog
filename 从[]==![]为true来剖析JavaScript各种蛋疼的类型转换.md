@@ -37,7 +37,7 @@ undefined==null
 
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyiwuiu4cj20yg0izaba)
 
-<div style="text-align:center;">**变量对象与堆内存**</div>
+**变量对象与堆内存**
 
 ```
 简单类型都放在栈（stack）里
@@ -93,6 +93,7 @@ var person = new Person(100,"笨蛋的座右铭",25);
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcy9omb2ucj20v20vigpo)
 
 刚看到这里是不是就咬牙切齿了,好戏还在后头呢,哈哈
+
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyhngm80hj20a00a03yp)
 
 **!取反运算符的优先级会高于==,所以我们先看看!在ECAMScript是怎么定义的?**
@@ -282,8 +283,11 @@ ToPrimitive(a);//"[object Object]",与上面文字分析的一致
 瞧见没有，一共只有4条规则！是不是很清晰、很简单。
 ```
 ### 主要参考文章和文献
+
 [ECMAScript5.1规范中文版]('http://yanhaijing.com/es5/#about')
+
 [通过一张简单的图，让你彻底地、永久地搞懂JS的==运算]('http://www.admin10000.com/document/9242.html')
+
 [JavaScript中加号运算符的类型转换优先级是什么？]('https://www.zhihu.com/question/21484710')
 
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj463ngvj20c80b8mxt)
