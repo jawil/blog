@@ -19,7 +19,7 @@ undefined==null
 ```
 **看了这种题目,是不是想抽面试官几耳光呢?哈哈,是不是看了之后一脸懵逼,两脸茫然呢?心想这什么玩意**
 
-<img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1487660070&di=650f6ea9aedf6558b48ed12a7e368b7c&src=http://pic.downcc.com/upload/2016-5/20165231344548696.png" width="50%"/>
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyivqddwfj20he0fvq98)
 
 **其实这些都是纸老虎,知道原理和转换规则,理解明白这些很容易的,炒鸡容易的,真的一点都不难,我们要打到一切纸老虎,不信?**
 
@@ -34,7 +34,9 @@ undefined==null
 有点js基础应该知道对象是引用类型,就会一眼看出来[] == []会输出false,因为左边的[]和右边的[]看起来长的一样,但是他们引用的地址并不同,这个是同一类型的比较,所以相对没那么麻烦,暂时不理解[] == []为false的童鞋这里就不细说,想要弄清楚可以通过这篇文章来了解JavaScript的内存空间详解.
 
 [前端基础进阶（一）：内存空间详细图解]('http://www.jianshu.com/p/996671d4dcc4')
-<img src="http://upload-images.jianshu.io/upload_images/599584-cce8e155e19593fb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/>
+
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyiwuiu4cj20yg0izaba)
+
 <div style="text-align:center;">**变量对象与堆内存**</div>
 
 ```
@@ -64,7 +66,9 @@ var arr = ['a','b','c'];
 var person = new Person(100,"笨蛋的座右铭",25); 
 ```
 然后我们来看一下内存分析图：
-<img src="http://s16.sinaimg.cn/mw690/002C8LTgty6WQuVmx795f&690"/>
+
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyiyaxri0j20b706wmx5)
+
 `变量num,bol,str为基本数据类型，它们的值，直接存放在栈中，obj,person,arr为复合数据类型，他们的引用变量存储在栈中，指向于存储在堆中的实际对象。
 由上图可知，我们无法直接操纵堆中的数据，也就是说我们无法直接操纵对象，但我们可以通过栈中对对象的引用来操作对象，就像我们通过遥控机操作电视机一样，区别在于这个电视机本身并没有控制按钮。
 `
@@ -73,9 +77,12 @@ var person = new Person(100,"笨蛋的座右铭",25);
 堆比栈大，栈比堆的运算速度快,对象是一个复杂的结构，并且可以自由扩展，如：数组可以无限扩充，对象可以自由添加属性。将他们放在堆中是为了不影响栈的效率。而是通过引用的方式查找到堆中的实际对象再进行操作。相对于简单数据类型而言，简单数据类型就比较稳定，并且它只占据很小的内存。不将简单数据类型放在堆是因为通过引用到堆中查找实际对象是要花费时间的，而这个综合成本远大于直接从栈中取得实际值的成本。所以简单数据类型的值直接存放在栈中。`
 
 搬运文章:[理解js内存分配]('http://blog.sina.com.cn/s/blog_8ecde0fe0102vy6e.html')
-<img src="http://v1.qzone.cc/skin/201608/18/11/02/57b52557dfa61208.jpg%21600x600.jpg" width="50%">
+
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyiz360huj20go0b4aaq)
+
 ##### 知道的大神当然可以飘过,这里主要给计算机基础薄弱的童鞋补一下课.
-<img src="http://image.diyidan.net/post/2016/8/4/W6a6yovKXR0UZEtk.jpg!webmedium"/>
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj146yqpj20cy0aywgs)
+
 ## []==![]为什么是true?
 
 **首先第一步:你要明白ECMAScript规范里面==的真正含义**
@@ -124,10 +131,11 @@ var person = new Person(100,"笨蛋的座右铭",25);
 是不是看了这个定义,还是一脸懵逼,ToPrimitive这尼玛什么玩意啊?这不是等于没说吗?
 <img src="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=618965f65543fbf2c579ae25804ee6b8/6f061d950a7b0208dc217f1f64d9f2d3562cc860.jpg"/>
 
-再来看看火狐MDN上面文档的介绍:[JS::ToPrimitive]('https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/SpiderMonkey/JSAPI_Reference/JS::ToPrimitive)
+再来看看火狐MDN上面文档的介绍:
+[JS::ToPrimitive]('https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/SpiderMonkey/JSAPI_Reference/JS::ToPrimitive)
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyegnfjpij210m11mqan)
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1487693092586&di=effd4d56f5a7b28386253f65476af59b&imgtype=0&src=http%3A%2F%2Fpic.qqtn.com%2Fup%2F2016-6%2F14658723534964796.jpg"/>
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj2c4dv4j205k05kt8l)
 
 查了一下资料,上面要说的可以概括成:
 
@@ -153,8 +161,7 @@ preferredType为希望转换成的类型（默认为空，接受的值为Number�
 4. 否则抛异常。
 
 ```
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1487694734575&di=5766285edd97950b4685ee16c88ed166&imgtype=0&src=http%3A%2F%2Fwww.qqjia.com%2Fz%2Fbq%2Fin%2Fyuanfang.jpg"/>
-
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj3ahyznj206j06fdfu)
 
 首先我们要明白**obj.valueOf()**和 **obj.toString()**还有原始值分别是什么意思,这是弄懂上面描述的前提之一:
 
@@ -249,6 +256,7 @@ ToPrimitive(a);//"[object Object]",与上面文字分析的一致
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcy8qs1kysj21dk11q48u)
 
 发现**typeof("")为string,0为number**,发现第5条满足规则,最后就成了**toNumber("")==0**的比较了,根据toNumber的转换规则:
+
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyhhn5tppj20vy09240w)
 
 **所以toNumber("")=0,最后也就成了0 == 0的问题,于是[]==![]最后成了0 == 0的问题,答案显而易见为true,一波三折**
@@ -278,5 +286,5 @@ ToPrimitive(a);//"[object Object]",与上面文字分析的一致
 [通过一张简单的图，让你彻底地、永久地搞懂JS的==运算]('http://www.admin10000.com/document/9242.html')
 [JavaScript中加号运算符的类型转换优先级是什么？]('https://www.zhihu.com/question/21484710')
 
-<img src="http://pic.qqtn.com/file/2013/2015-2/2015022810370957792.jpg"/>
+![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj463ngvj20c80b8mxt)
 
