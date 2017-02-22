@@ -1,4 +1,3 @@
-#从[]==![]为true来剖析JavaScript各种蛋疼的类型转换
 **你是否在面试中遇到过各种奇葩和比较细节的问题?**
 
 ```
@@ -33,7 +32,7 @@ undefined==null
 
 有点js基础应该知道对象是引用类型,就会一眼看出来[] == []会输出false,因为左边的[]和右边的[]看起来长的一样,但是他们引用的地址并不同,这个是同一类型的比较,所以相对没那么麻烦,暂时不理解[] == []为false的童鞋这里就不细说,想要弄清楚可以通过这篇文章来了解JavaScript的内存空间详解.
 
-[前端基础进阶（一）：内存空间详细图解]('http://www.jianshu.com/p/996671d4dcc4')
+[前端基础进阶（一）：内存空间详细图解](http://www.jianshu.com/p/996671d4dcc4)
 
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyiwuiu4cj20yg0izaba)
 
@@ -131,7 +130,7 @@ var person = new Person(100,"笨蛋的座右铭",25);
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcycf5tjn2j21fe0k0dm2)
 
 是不是看了这个定义,还是一脸懵逼,ToPrimitive这尼玛什么玩意啊?这不是等于没说吗?
-<img src="https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=618965f65543fbf2c579ae25804ee6b8/6f061d950a7b0208dc217f1f64d9f2d3562cc860.jpg"/>
+![](https://gss0.baidu.com/7Po3dSag_xI4khGko9WTAnF6hhy/zhidao/wh%3D600%2C800/sign=618965f65543fbf2c579ae25804ee6b8/6f061d950a7b0208dc217f1f64d9f2d3562cc860.jpg)
 
 再来看看火狐MDN上面文档的介绍:
 [JS::ToPrimitive]('https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/SpiderMonkey/JSAPI_Reference/JS::ToPrimitive)
@@ -294,3 +293,5 @@ ToPrimitive(a);//"[object Object]",与上面文字分析的一致
 
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj463ngvj20c80b8mxt)
 
+喜欢我总结的文章点个star
+我的[github博客](https://github.com/jawil/blog)地址,总结的第一篇,不好之处和借鉴不得到支持还望见谅!
