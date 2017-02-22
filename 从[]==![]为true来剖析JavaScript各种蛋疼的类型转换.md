@@ -1,5 +1,4 @@
-#####方便大家查阅,本文已将发表在segmentfault社区,已上热门,谢谢大家支持.
-[点我查阅](https://segmentfault.com/a/1190000008432611)
+#####方便大家查阅,本文已将发表在segmentfault社区,已上热门,谢谢大家支持.[点我查阅](https://segmentfault.com/a/1190000008432611)
 
 **你是否在面试中遇到过各种奇葩和比较细节的问题?**
 
@@ -174,7 +173,10 @@ preferredType为希望转换成的类型（默认为空，接受的值为Number�
 ```
 var obj = {};
 console.log(obj.toString());//[object Object]
-    
+
+var arr2 = [];
+console.log(arr2.toString());//""空字符串
+  
 var date = new Date();
 console.log(date.toString());//Sun Feb 28 2016 13:40:36 GMT+0800 (中国标准时间)
 ```
@@ -190,8 +192,6 @@ console.log(obj.valueOf());//Object {name: "obj"}
 var arr1 = [1];
 console.log(arr1.valueOf());//[1]
 
-var arr2 = [];
-console.log(arr2.valueOf());//""空字符串
 
 
 var date = new Date();
@@ -296,5 +296,5 @@ ToPrimitive(a);//"[object Object]",与上面文字分析的一致
 
 ![](http://ww1.sinaimg.cn/large/a660cab2gy1fcyj463ngvj20c80b8mxt)
 
-喜欢我总结的文章点个star
-我的[github博客](https://github.com/jawil/blog)地址,总结的第一篇,不好之处和借鉴不得到支持还望见谅!
+喜欢我总结的文章对你有帮助有收获的话麻烦点个star
+我的[github博客](https://github.com/jawil/blog)地址,总结的第一篇,不好之处和借鉴不得到之处还望见谅,您的支持就是我的动力!
