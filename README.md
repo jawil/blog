@@ -1,7 +1,7 @@
 
 [个人博客,喜欢的可以持续关注,点击查看目录](https://github.com/jawil/blog/issues).
 
-> **博客主人:jawil—你能读懂的人.**
+> **博客主人:jawil**
 
 > **博客宗旨:从现象看本质,再从本质回归到现象.**
 
@@ -11,3 +11,4 @@
 
 [1.从 []==![] 为 true 来剖析 JavaScript 各种蛋疼的类型转换
 ](https://github.com/jawil/blog/issues/1)
+[2.吹毛求疵的追求优雅高性能JavaScript](https://github.com/jawil/blog/issues/2)
