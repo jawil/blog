@@ -13,3 +13,5 @@
 ](https://github.com/jawil/blog/issues/1)
 
 [2.吹毛求疵的追求优雅高性能JavaScript](https://github.com/jawil/blog/issues/2)
+
+[3.一道JS面试题所引发的"血案"，透过现象寻本质，再从本质看现象](https://github.com/jawil/blog/issues/3)
