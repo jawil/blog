@@ -1,7 +1,7 @@
 
 [个人博客,喜欢的可以持续关注,点击查看目录](https://github.com/jawil/blog/issues).
 
-> **博客主人:jawil**
+> **博客主人:Too young, Too simple. Sometimes, Naive,Stupid.**
 
 > **博客目的:一枚小鸟，渴望在天空翱翔！**
 
