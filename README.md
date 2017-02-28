@@ -9,7 +9,9 @@
 
 > **博客个性签名:若批评无自由,则赞美无意义.**
 
-[个人博客,喜欢的可以持续关注,共同学习,点击查看全部目录](https://github.com/jawil/blog/issues).
+
+**[个人博客,喜欢的可以持续关注,共同学习,点击查看全部目录](https://github.com/jawil/blog/issues)**.
+
 
 >[1.从 []==![] 为 true 来剖析 JavaScript 各种蛋疼的类型转换
 ](https://github.com/jawil/blog/issues/1)
