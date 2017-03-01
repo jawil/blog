@@ -20,4 +20,4 @@
 
 >[3.一道JS面试题所引发的"血案"，透过现象寻本质，再从本质看现象](https://github.com/jawil/blog/issues/3)
 
->4.来自掘金的你——挖 "掘" 淘 "金" 之 前端闯关历险记学习资料汇总](https://github.com/jawil/blog/issues/4)
+>[4.来自掘金的你——挖 "掘" 淘 "金" 之 前端闯关历险记学习资料汇总](https://github.com/jawil/blog/issues/4)
