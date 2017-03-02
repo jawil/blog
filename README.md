@@ -6,7 +6,7 @@
 
 > **博客目的：给自己一个回头看看自己精神世界的时光机。**
 
-> **博客主人：Too young,Too simple.Sometimes,Naive,Stupid.**
+> **博客主人：Too young,too simple.Sometimes,naive & stupid.**
 
 > **博客座右铭：生活不止眼前的苟且，还有看不到的bug和读不懂的code。**
 
