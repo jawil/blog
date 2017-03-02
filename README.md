@@ -8,7 +8,7 @@
 
 > **博客主人：Too young,Too simple.Sometimes,Naive,Stupid.**
 
-> **博客座右铭：生活不止眼前的苟且，还有看不到的BUG和读不懂的代码。**
+> **博客座右铭：生活不止眼前的苟且，还有看不到的bug和读不懂的code。**
 
   
 ## 2017
