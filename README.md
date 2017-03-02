@@ -1,5 +1,5 @@
+**码梦为生，笔耕不辍。** 
 # [博客目录](https://github.com/jawil/blog/issues)
-
 > **博客签名：若批评无自由，则赞美无意义。**
 
 > **博客宗旨：从现象看本质，再从本质回归到现象。**
@@ -27,4 +27,3 @@
 * February 24, 2017 **»** [吹毛求疵的追求优雅高性能JavaScript](https://github.com/jawil/blog/issues/2)(原)
 * February 22, 2017 **»** [从 \[\]==!\[\] 为 true 来剖析 JavaScript 各种蛋疼的类型转换](https://github.com/jawil/blog/issues/1)(原)
 
-**码梦为生，笔耕不辍。** 
