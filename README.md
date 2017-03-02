@@ -26,3 +26,5 @@
 * February 26, 2017 **»** [一道JS面试题所引发的"血案"，透过现象寻本质，再从本质看现象](https://github.com/jawil/blog/issues/3)(原)
 * February 24, 2017 **»** [吹毛求疵的追求优雅高性能JavaScript](https://github.com/jawil/blog/issues/2)(原)
 * February 22, 2017 **»** [从 \[\]==!\[\] 为 true 来剖析 JavaScript 各种蛋疼的类型转换](https://github.com/jawil/blog/issues/1)(原)
+
+**码梦为生，笔耕不辍。** 
