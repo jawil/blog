@@ -14,6 +14,8 @@
 ## 2017
 **行远自迩，登高自卑，与君共勉。**
 
+** [奇文共欣赏 疑义相与析](https://github.com/jawil/blog/issues/6)(持续更新) **
+
 ### April
 *四月芳林何悄悄，绿阴满地青梅小。*
 
@@ -24,7 +26,6 @@
 *风光三月连樱笋，美人踌躇白日静。*
 
 * March 16, 2017 **»** [关于PM2使用技巧和需要注意的地方](https://github.com/jawil/blog/issues/7)
-* March 8, 2017 **»** [奇文共欣赏 疑义相与析](https://github.com/jawil/blog/issues/6)(持续更新)
 * March 5, 2017 **»** [从++\[\[\]\][+\[]\]+\[+\[\]\]==10?深入浅出弱类型JS的隐式转换](https://github.com/jawil/blog/issues/5)(原)
 * March 1, 2017 **»** [来自掘金的你——挖 "掘" 淘 "金" 之 前端闯关历险记学习资料汇总](https://github.com/jawil/blog/issues/4)(原)
 
