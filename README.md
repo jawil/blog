@@ -12,7 +12,7 @@
 
   
 ## 2017
-**行远自迩，登高自卑，与君共勉。** [奇文共欣赏 疑义相与析](https://github.com/jawil/blog/issues/6)(持续更新)
+**行远自迩，登高自卑，与君共勉。** [奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)
 
 ### April
 *四月芳林何悄悄，绿阴满地青梅小。*
