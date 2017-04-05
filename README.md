@@ -17,6 +17,7 @@
 ### April
 *四月芳林何悄悄，绿阴满地青梅小。*
 
+* April 5, 2017 **»** [深入浅出DOM基础——《DOM探索之基础详解篇》学习笔记 ](https://github.com/jawil/blog/issues/9)(原)
 * April 1, 2017 **»** [纯CSS实现网站常用的五角星评分和分数展示交互效果](https://github.com/jawil/blog/issues/8)(原)
 
    
