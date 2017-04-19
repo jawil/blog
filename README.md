@@ -19,7 +19,7 @@
 ### April
 *四月芳林何悄悄，绿阴满地青梅小。*
 
-* April 20, 2017 **»** [从探究Function.__proto__===Function.prototype过程中的一些收获](https://github.com/jawil/blog/issues/13)
+* April 20, 2017 **»** [从探究Function.\_\_proto\_\_===Function.prototype过程中的一些收获](https://github.com/jawil/blog/issues/13)
 * April 12, 2017 **»** [神器！解放你的双手——UI设计稿全自动切图和标注的工具推荐](https://github.com/jawil/blog/issues/11)
 * April 9, 2017 **»** [工作中经常用到github上优秀、实用、轻量级、无依赖的插件和库](https://github.com/jawil/blog/issues/10)
 * April 5, 2017 **»** [深入浅出DOM基础——《DOM探索之基础详解篇》学习笔记](https://github.com/jawil/blog/issues/9)
