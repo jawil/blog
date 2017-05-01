@@ -1,4 +1,4 @@
-## [博客目录](https://github.com/jawil/blog/issues)
+## [前端小密圈](http://qdxmq.com/)
 
 > **博客签名：若批评无自由，则赞美无意义。**
 
