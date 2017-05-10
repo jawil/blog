@@ -18,6 +18,8 @@
 ### May
 *五月榴花妖艳烘，绿杨带雨垂垂重。*
 
+
+* May 10, 2017 **»** [关于Node.js的__dirname，__filename，process.cwd()，./文件路径的一些坑](https://github.com/jawil/blog/issues/18)
 * May 2, 2017 **»** [不用call和apply方法模拟实现ES5的bind方法](https://github.com/jawil/blog/issues/16)
 * May 1, 2017 **»** [通俗大白话来理解TCP协议的三次握手和四次分手](https://github.com/jawil/blog/issues/14)
 
