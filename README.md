@@ -17,6 +17,8 @@
 
 ### June
 *六月荷花香满湖，红衣绿扇映清波。*
+* June 1, 2017 **»** [JavaScript正则进阶之路——活学妙用奇淫正则表达式 ](https://github.com/jawil/blog/issues/20)
+
 
 ### May
 *五月榴花妖艳烘，绿杨带雨垂垂重。*
