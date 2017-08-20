@@ -18,7 +18,7 @@
 ### August
 *八月凉风天气晶，万里无云河汉明。*
 * August 20, 2017 **»** [这些JavaScript编程黑科技，装逼指南，高逼格代码，让你惊叹不已](https://github.com/jawil/blog/issues/24)
-* August 09, 2017 **»** [面试分享：一年经验初探阿里巴巴前端社招](https://github.com/jawil/blog/issues/22)
+* August 9, 2017 **»** [面试分享：一年经验初探阿里巴巴前端社招](https://github.com/jawil/blog/issues/22)
 
 ### June
 *六月荷花香满湖，红衣绿扇映清波。*
