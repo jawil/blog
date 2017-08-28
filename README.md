@@ -15,7 +15,7 @@
 
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
 ### September
-*可怜九月初三夜，露似珍珠月似。*
+*可怜九月初三夜，露似珍珠月似弓。*
 
 
 ### August
