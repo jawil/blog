@@ -16,7 +16,7 @@
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
 ### September
 *可怜九月初三夜，露似珍珠月似弓。*
-* September 14, 2017 **»** [安利一下自己为 GitHub 开发的首个 Chrome 浏览器集成插件——GayHub😂](https://github.com/jawil/blog/issues/28)
+* September 14, 2017 **»** [安利一下自己为 GitHub 开发的首个 Chrome 插件—GayHub](https://github.com/jawil/blog/issues/28)
 
 
 ### August
