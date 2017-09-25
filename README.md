@@ -16,6 +16,8 @@
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
 ### September
 *可怜九月初三夜，露似珍珠月似弓。*
+
+* September 26, 2017 **»** [CSS 黑魔法小技巧，让你少写不必要的JS，代码更优雅](https://github.com/jawil/blog/issues/29)
 * September 14, 2017 **»** [安利一下自己为 GitHub 开发的首个 Chrome 插件—GayHub😂](https://github.com/jawil/blog/issues/28)
 
 
