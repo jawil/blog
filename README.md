@@ -14,6 +14,10 @@
 **行远自迩，登高自卑，与君共勉。文以载道，歌以咏志。** 
 
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
+### December
+*日晏霜浓十二月，林疏石瘦第三溪。*
+* December 23, 2017 **»** [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
+
 ### September
 *可怜九月初三夜，露似珍珠月似弓。*
 
