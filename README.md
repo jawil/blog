@@ -15,7 +15,7 @@
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
 ## 2018
 ### March
-*三月金明柳絮飞，岸花堤草弄春时。。*
+*三月金明柳絮飞，岸花堤草弄春时。*
 
 * March 5, 2017 **»** [一行代码实现一个简单的模板字符串替换](https://github.com/jawil/blog/issues/32)
 
