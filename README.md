@@ -10,10 +10,17 @@
                
 > **博客座右铭：生活不止裆下的苟且，还有未知的bug和看不懂的code。**
 
-## 2017
 **行远自迩，登高自卑，与君共勉。文以载道，歌以咏志。** 
 
 ### **[奇文共欣赏，疑义相与析。](https://github.com/jawil/blog/issues/6)(持续更新)**
+## 2018
+### March
+*三月金明柳絮飞，岸花堤草弄春时。。*
+
+* March 5, 2017 **»** [一行代码实现一个简单的模板字符串替换](https://github.com/jawil/blog/issues/32)
+
+
+## 2017
 ### December
 *日晏霜浓十二月，林疏石瘦第三溪。*
 * December 23, 2017 **»** [JavaScript 优雅的实现方式包含你可能不知道的知识点](https://github.com/jawil/blog/issues/30)
